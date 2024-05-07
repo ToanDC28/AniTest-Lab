@@ -1,0 +1,15 @@
+D:\C#\API\AniTestLab\DAO\bin\Debug\net7.0\DAO.deps.json
+D:\C#\API\AniTestLab\DAO\bin\Debug\net7.0\DAO.dll
+D:\C#\API\AniTestLab\DAO\bin\Debug\net7.0\DAO.pdb
+D:\C#\API\AniTestLab\DAO\bin\Debug\net7.0\BusinessObject.dll
+D:\C#\API\AniTestLab\DAO\bin\Debug\net7.0\BusinessObject.pdb
+D:\C#\API\AniTestLab\DAO\obj\Debug\net7.0\DAO.csproj.AssemblyReference.cache
+D:\C#\API\AniTestLab\DAO\obj\Debug\net7.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\API\AniTestLab\DAO\obj\Debug\net7.0\DAO.AssemblyInfoInputs.cache
+D:\C#\API\AniTestLab\DAO\obj\Debug\net7.0\DAO.AssemblyInfo.cs
+D:\C#\API\AniTestLab\DAO\obj\Debug\net7.0\DAO.csproj.CoreCompileInputs.cache
+D:\C#\API\AniTestLab\DAO\obj\Debug\net7.0\DAO.csproj.CopyComplete
+D:\C#\API\AniTestLab\DAO\obj\Debug\net7.0\DAO.dll
+D:\C#\API\AniTestLab\DAO\obj\Debug\net7.0\refint\DAO.dll
+D:\C#\API\AniTestLab\DAO\obj\Debug\net7.0\DAO.pdb
+D:\C#\API\AniTestLab\DAO\obj\Debug\net7.0\ref\DAO.dll
